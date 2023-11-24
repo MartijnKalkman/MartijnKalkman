@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.png)]
 <h1 align="center">Hi 👋, I'm Martijn Kalkman</h1>
 <h3 align="center">A full stack developer in the making!</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
