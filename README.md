@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martijn Kalkman</h1>
 <h3 align="center">A full stack developer in the making!</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martijnkalkman&label=Profile%20views&color=0e75b6&style=flat" alt="martijnkalkman" /> </p>
 
@@ -16,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/martijnkalkman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="martijnkalkman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
